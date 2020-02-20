@@ -1,0 +1,24 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwanuka94/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Sam Kimball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwanuka94/palindrome/issues"
+  },
+  "homepage": "https://github.com/kiwanuka94/palindrome#readme"
+}
